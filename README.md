@@ -6,7 +6,6 @@ This is WeatherApp I have used a Weather API for network calls and fetched data.
 - MVVM Architecture.
 - Dependancy Injection.
 - SOLID Principles.
-- Navigation using Coordinator.
 - Network call using async/await.
 
 ## Requirements
